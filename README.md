@@ -34,3 +34,5 @@ Supported plugins: WooCommerce, WooCommerce Membership
 - Shortcode output (just like the prefix)
 - Label function
 
+
+Did you find a bug or do you have a feature suggestion? Use the Issue section.
