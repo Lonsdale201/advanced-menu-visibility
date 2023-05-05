@@ -1,0 +1,11 @@
+.quick-delete-menu-item a {
+    color: #a00;
+}
+
+.custom-menu-elements-container {
+    background-color: #e64a191a; 
+    padding: 1rem; /* padding setup */
+    display: inline-block;
+    position: relative;
+}
+
