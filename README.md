@@ -40,5 +40,5 @@ Did you find a bug or do you have a feature suggestion? Use the Issue section.
 ### Next release will add: Bubbles with counters ( All WC publish product, all product with sale price )
 
 ### Changelog
-initial pre-alfa release
+0.01
 initial pre-alfa release
