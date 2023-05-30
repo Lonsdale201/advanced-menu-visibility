@@ -33,6 +33,7 @@ Supported plugins: WooCommerce, WooCommerce Membership
 - Bubbles 
 - Shortcode output (just like the prefix)
 - Label function
+- Deactive dropdown parent element
 
 
 Did you find a bug or do you have a feature suggestion? Use the Issue section.
